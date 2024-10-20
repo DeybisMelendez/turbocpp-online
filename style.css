@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+}
+.main {
+  width: 100vw;
+  height: 100vh;
+}
+.code {
+  display: flex;
+  height: 10vh;
+}
+.code__filepath {
+  width: 100%;
+  margin: auto;
+}
+.code__button {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid black;
+}
+.code__content {
+  padding: 12px;
+  margin: 12px;
+}
+.dos {
+  width: 100vw;
+  height: 90vh;
+}
